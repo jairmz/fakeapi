@@ -22,8 +22,29 @@
       ]
     },
     {
-    "bot_id": 2,
-    "bot_name": "viaje a scotlan"
+    "bot_id": 1,
+    "bot_name": "cena amigotes",
+    "bot_balance": 455,
+    "movimientos": 
+      [
+        {
+          "name": "condones",
+          "cantidad": 10
+        },
+        {
+          "name": "confetis",
+          "cantidad": 100
+        },
+        {
+          "name": "putes",
+          "
+       ],
+      "users": [
+        {
+          "name": "Pedro Sanchez"
+        }
+      ]
     }
+    
    ]
 }
