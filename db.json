@@ -2,7 +2,24 @@
   "botes": [
     {
     "bot_id": 1,
-    "bot_name": "cena amigotes"
+    "bot_name": "cena amigotes",
+    "bot_balance": 50,
+    "movimientos": 
+      [
+        {
+          "name": "compra tarta",
+          "cantidad": 10
+        },
+        {
+          "name": "putes",
+          "cantidad": 100
+        }
+       ],
+      "users": [
+        {
+          "name": "Pedro Sanchez"
+        }
+      ]
     },
     {
     "bot_id": 2,
