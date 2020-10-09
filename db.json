@@ -1,6 +1,12 @@
 {
-  "user": {
-    "email": "jairmz@hotmail",
-    "token": "KHOIKWNER98KN4238NB23H9823H4892NH3N4KHEF@#DJKF"
-  }
+  "botes": [
+    {
+    "bot_id": 1,
+    "bot_name": "cena amigotes"
+    },
+    {
+    "bot_id": 2,
+    "bot_name": "viaje a scotlan"
+    }
+   ]
 }
