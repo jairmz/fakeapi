@@ -1,65 +1,27 @@
-{ botes: [
+{ "botes": [
             {
-                bot_id: "1",
-                bot_name:"Aniversario boda Pepe y Lola",
-                bot_balance: 50,
-                movimientos: [
-                    {name: "compra tarta",
-                    cantidad: 10
+                "bot_id": "1",
+                "bot_name":"Aniversario boda Pepe y Lola",
+                "bot_balance": 50,
+                "movimientos": [
+                    {"name": "compra tarta",
+                    "cantidad": 10
                     },
-                    {name: "reserva local",
-                    cantidad: 400
+                    {"name": "reserva local",
+                    "cantidad": 400
                     },
-                    {name: "viaje regalo",
-                    cantidad: 1000
+                    {"name": "viaje regalo",
+                    "cantidad": 1000
                     }
                 ],
-                users: [
-                    {name: "Pedro"
+                "users2: [
+                    {"name": "Pedro"
                     },
-                    {name: "Ana"
+                    {"name": "Ana"
                     },
-                    {name: "Juan"
+                    {"name": "Juan"
                     }
                 ] 
-            },{
-                bot_id: "2",
-                bot_name:"Fiesta Cumple Abuela",
-                bot_balance: 500,
-                movimientos: [
-                    {name: "bebidas",
-                    cantidad: 40
-                    }
-                ],
-                users: [
-                    {name: "Lucas"
-                    },
-                    {name: "Ana"
-                    },
-                    {name: "kkk"
-                    },
-                    {name: "Luis"
-                    }
-                ]
-            },{
-                bot_id: "3",
-                bot_name:"Jubilación Antonio",
-                bot_balance: 100,
-                movimientos: [
-                    {name: "compra regalos",
-                    cantidad: 200
-                    }
-                ],
-                users: [
-                    {name: "Lucas"
-                    },
-                    {name: "Carlos"
-                    },
-                    {name: "Raquel"
-                    },
-                    {name: "Maria"
-                    }
-                ]
             }
         ]
-        }
+}
