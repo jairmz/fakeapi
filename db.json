@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "user": {
+    "email": "jairmz@hotmail",
+    "token": "KHOIKWNER98KN4238NB23H9823H4892NH3N4KHEF@#DJKF"
   }
 }
