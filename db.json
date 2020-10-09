@@ -1,27 +1,3 @@
-{ "botes": [
-            {
-                "bot_id": "1",
-                "bot_name":"Aniversario boda Pepe y Lola",
-                "bot_balance": 50,
-                "movimientos": [
-                    {"name": "compra tarta",
-                    "cantidad": 10
-                    },
-                    {"name": "reserva local",
-                    "cantidad": 400
-                    },
-                    {"name": "viaje regalo",
-                    "cantidad": 1000
-                    }
-                ],
-                "users2: [
-                    {"name": "Pedro"
-                    },
-                    {"name": "Ana"
-                    },
-                    {"name": "Juan"
-                    }
-                ] 
-            }
-        ]
+{ "botes": "hola mundo" 
+        
 }
